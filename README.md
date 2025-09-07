@@ -6,6 +6,6 @@
 </head>
 <body>
   <h1>¡Hola mundo desde GitHub Pages!</h1>
-  <p>Ya está funcionando tu sitio público 🚀</p>
+  <p>Ya está funcionando tu sitio públicco 🚀</p>
 </body>
 </html>
